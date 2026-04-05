@@ -1,8 +1,6 @@
 # Taş Kağıt Makas (Rock Paper Scissors)
 
 [![GitHub Issues](https://img.shields.io/github/issues/KauelaKawela/tas-kag-t-makas)](https://github.com/KauelaKawela/tas-kag-t-makas/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/KauelaKawela/tas-kag-t-makas)](https://github.com/KauelaKawela/tas-kag-t-makas/network)
-[![GitHub Stars](https://img.shields.io/github/stars/KauelaKawela/tas-kag-t-makas)](https://github.com/KauelaKawela/tas-kag-t-makas/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)
 
 Modern, web tabanlı ve komut satırı destekli yapıya sahip, interaktif bir algoritma uygulaması.
